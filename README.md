@@ -5,9 +5,11 @@ Repo for the Brewing Data Cup 2020
 
 Based on historic information predict if certain products will triumph or flunk in the following months,
 
-	- **Provided Data:**
-		+ Client quadrant
-		+ Historic product volume
-	- **Evaluation:**
-		+ Accuracy
-		+ General accuracy, accuracy per product, accuracy per quadrant
+ **Provided Data:**
+
+	- Client quadrant
+	-  Historic product volume
+
+**Evaluation:**
+	- Accuracy
+	-  General accuracy, accuracy per product, accuracy per quadrant
