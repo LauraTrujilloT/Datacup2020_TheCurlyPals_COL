@@ -11,5 +11,6 @@ Based on historic information predict if certain products will triumph or flunk 
 	-  Historic product volume
 
 **Evaluation:**
+
 	- Accuracy
 	-  General accuracy, accuracy per product, accuracy per quadrant
