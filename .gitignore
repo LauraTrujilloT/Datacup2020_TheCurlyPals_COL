@@ -1,0 +1,9 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+# Submodule
+reto-colombia-2020/
+# Jupyter Notebook
+.ipynb_checkpoints
+# Uncompress_data
+data/*.csv
