@@ -7,3 +7,8 @@ def extract():
     """
     path = os.path.join('data', 'colombia-data.7z')
     Archive(path).extractall('data')
+
+
+def __name__ = "__main__i":
+    extract()
+

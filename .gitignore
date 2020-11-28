@@ -6,4 +6,4 @@ reto-colombia-2020/
 # Jupyter Notebook
 .ipynb_checkpoints
 # Uncompress_data
-data/*.csv
+notebook/data/*.csv
