@@ -8,3 +8,4 @@ reto-colombia-2020/
 */.ipynb_checkpoints
 # Uncompress_data
 notebooks/data/*.csv
+output/*.csv
